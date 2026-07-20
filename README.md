@@ -63,7 +63,7 @@ This page helps identify **top-performing products** and usage patterns.
 
 ### 🛡️ 4. Insurance Analysis Page  
 
-![Insurance Analysis Preview](/INSURANCE_ANALYSIS%202.png)
+![Insurance Analysis Preview](/INSURANCE_ANALYSIS.png)
 
 The **Insurance Analysis Page** evaluates insurance portfolio performance and claim behavior.
 
